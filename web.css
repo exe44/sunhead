@@ -1,0 +1,33 @@
+body {
+  font-family: 'Lora', serif;
+  font-size: 16px;
+  margin-left: 20%;
+  margin-top: 100px;
+}
+
+.brand { font-size: 18px; }
+
+.content {
+  width: 36%;
+  margin-top: 60px;
+  border-color: #000;
+  border-top-style: solid;
+  border-top-width: 1px;
+  padding-top: 160px;
+}
+
+.contact {
+  height: 80px;
+  margin-top: 100px;
+  margin-left: 44%;
+  border-color: #000;
+  border-left-style: solid;
+  border-left-width: 1px;
+  padding-left: 40px;
+  margin-right: 20px;
+  margin-bottom: 100px;
+}
+
+a { color: #000; text-decoration:none; font-style: italic; }
+a:visited { color: #000; }
+a:hover { text-decoration: underline; }
